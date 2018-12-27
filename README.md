@@ -9,7 +9,7 @@
 
 
 
-![Dictionaries](./image/urimal.png)
+![Dictionaries](./urimal.png)
 
 
 
