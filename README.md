@@ -48,7 +48,8 @@ http://www.memidex.com
 https://www.lexicala.com/
 
 
-# 사전과 이미지 캡션 그리고 클라우드 소스를 적절히 사용한 데이터 수집 "Teaching computers to see" 이 목적이라고 하네요. 
+## 사전과 이미지 캡션 그리고 클라우드 소싱을 적절히 사용한 데이터 수집              
+"Teaching computers to see" 가 목적이라고 하네요.           
 
 ![Tinyimages](./Tinyimages.png)
 
@@ -56,6 +57,5 @@ https://www.lexicala.com/
 출처 : http://groups.csail.mit.edu/vision/TinyImages/
 
 
-# 자주 쓰는 어휘 중에 벙어리 장갑 대신 엄지 장갑을 쓰자는 1인 운동 중입니다.
-# 네이버에서도 오픈형 사전을 준비 중이라고 하네요
-# 한국수어사전 찾기 편해지면 좋을 것 같아요
+## 자주 쓰는 어휘 중에 벙어리 장갑 대신 엄지 장갑을 쓰자는 1인 운동 중입니다.
+## 한국수어사전 찾기 편해지면 좋을 것 같아요
