@@ -21,18 +21,18 @@
 
 
 
-[down_image1](down1.png)
-[download_image2](down2.png)
+![down_image1](down1.png)
+![download_image2](down2.png)
 
 
 
 엑셀로 다운로드 받으면 다음과 같이 정보를 볼 수 있습니다.
 
-[결과 그림](result.PNG)
+![결과 그림](result.PNG)
 
 
 
-[전체 품사 정보](pos.png)는 다음과 같습니다.
+![전체 품사 정보](pos.png)는 다음과 같습니다.
 
 
 
